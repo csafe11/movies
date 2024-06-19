@@ -97,10 +97,15 @@ export default defineNuxtConfig({
         name: 'Français',
         file: 'fr-FR.json',
       },
+      {
+        code: 'hu-HU',
+        name: 'Hungarian',
+        file: 'hu-HU.json',
+      },
     ],
     lazy: true,
     langDir: 'internationalization',
-    defaultLocale: 'en',
+    defaultLocale: 'hu',
   },
   htmlValidator: {
     usePrettier: false,

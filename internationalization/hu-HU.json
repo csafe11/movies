@@ -1,0 +1,58 @@
+{
+    "Popular Movies": "Népszerű filmek",
+    "Top Rated Movies": "Legjobbra értékelt filmek",
+    "Upcoming Movies": "Közelgő filmek",
+    "Now Playing Movies": "Most játszott filmek",
+    "Popular TV Shows": "Népszerű sorozatok",
+    "Top Rated TV Shows": "Legjobbra értékelt sorozatok",
+    "TV Shows Airing Today": "Ma sugárzott sorozatok",
+  
+    "Watch Trailer": "Előzetes megtekintése",
+    "Explore more": "További felfedezés",
+  
+    "Overview": "Áttekintés",
+    "Videos": "Videók",
+    "Media Photos": "Fotók",
+  
+    "Cast": "Szereplők",
+    "More like this": "Hasonlóak",
+  
+    "Storyline": "Történet",
+    "Release Date": "Megjelenési dátum",
+    "Runtime": "Hossz",
+    "Director": "Rendező",
+    "Budget": "Költségvetés",
+    "Revenue": "Bevétel",
+    "Genre": "Műfaj",
+    "Status": "Állapot",
+    "Language": "Nyelv",
+    "Production": "Gyártás",
+  
+    "Backdrops": "Háttérképek",
+    "Posters": "Poszterek",
+  
+    "Known For": "Ismert",
+    "Credits": "Stáb",
+    "Person Photos": "Fotók",
+    "(no biography)": "(nincs életrajz)",
+    "Known for": "Ismert",
+    "Place of birth": "Születési hely",
+    "Birthday": "Születési dátum",
+  
+    "Acting Credits": "Színészi munkák",
+    "Production Credits": "Gyártási munkák",
+  
+    "Type to search...": "Írja be a keresést...",
+    "Type something to search...": "Keressen valamit...",
+  
+    "{numberOfReviews} Reviews": "{numberOfReviews} vélemény",
+  
+    "{numberOfImages} Images": "{numberOfImages} kép",
+    "{numberOfVideos} Videos": "{numberOfVideos} videó",
+  
+    "as {character}": "{character} szerepében",
+  
+    "{count} items": "{count} találat",
+    "Search result for: {currentSearch}": "Keresési eredmény: {currentSearch}"
+  }
+  
